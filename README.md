@@ -1,6 +1,8 @@
 
 # 샘플 데이터
 
+- 로컬 h2 DB 사용
+
 ```h2
 drop table member if exists cascade; 
 
